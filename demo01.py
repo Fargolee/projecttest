@@ -40,7 +40,7 @@ assert res.json()['status'] == 200
 print('修改文章成功！')
 
 
-#    1
+#   
 # if res.status_code ==200:
 #     if res.json()['status'] == 200:
 #         print("登录成功")
